@@ -34,9 +34,10 @@ This app provides an easy and fun way to learn Japanese basics including numbers
 
 <p float="left">
   <img src="screenshots/home page.png" width="200" />
-  <img src="screenshots/numbers.png" width="200" />
+  <img src="screenshots/numbers page.png" width="200" />
   <img src="screenshots/family members.png" width="200" />
   <img src="screenshots/phrases.png" width="200" />
+  <img src="screenshots/colors.png" width="200" />
 </p>
 
 ---
